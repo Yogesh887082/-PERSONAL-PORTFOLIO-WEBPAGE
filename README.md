@@ -46,4 +46,4 @@ This project is a **simple portfolio website** designed using **HTML and CSS** t
 This portfolio website is a great starting point for developers to create their online presence and showcase their work professionally! 🚀
 
 OUTPUT
-
+![Image](https://github.com/user-attachments/assets/9071983e-9fb7-44e9-8d4a-93489074ca8a)
